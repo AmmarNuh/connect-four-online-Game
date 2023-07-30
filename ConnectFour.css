@@ -1,0 +1,33 @@
+/* td {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border: 3px solid #545454;
+    font-size: 50px;
+    background-color: #11BDAC;
+} */
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+.board button {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    /* the cycle BG */
+    border-radius: 50%;
+    /* to draw the cycle */
+    border: 4px solid black;
+    /* to draw the cycle's border */
+    margin: 1px;
+}
