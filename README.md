@@ -3,10 +3,10 @@
 **Introduction:**
 Welcome to the Connect Four Online Game, a web application that brings the classic Connect Four game to your fingertips! This project showcases an engaging and interactive online version of the beloved strategy board game. Using HTML, CSS, and JavaScript, players can challenge friends or test their skills against an AI opponent, all within the convenience of their web browser.
 
+<img width="1134" alt="The game in action" src="https://github.com/AmmarNuh/connect-four-online-Game/assets/135957269/8cc4a152-1585-42d1-b6d2-499a842d9009">
+
 **Features:**
 1. **Responsive Design:** The website is designed to be fully responsive, ensuring seamless gameplay on various devices, including desktops, laptops, tablets, and smartphones.
-
-
 
 2. **Interactive Gameplay:** Players can drop their colored discs into the game grid, and the website accurately detects valid moves and checks for a winning combination.
 
